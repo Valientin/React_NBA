@@ -4,11 +4,14 @@
  
   Під час виконання лабораторної роботи було розробленно односторінкову аплікацію, яка виводить на екран публікації, збережені у базі даних(аплікація орієнтована на пристрої з невеликим розширенням екрану). Як базу даних та хостинг для аплікації було використано платформу Google - Firebase. Також було розроблено реєстрацію та логін для користувачів, а також можливість добавлення власної публікації.<br><br>
   
-  <center>
+
  ![Image alt](https://github.com/Valientin/React_NBA_lab_4/raw/master/screen/screen1.PNG)<br>
- Screenshot_1 - Початкова сторінка(index.html)<br><br>
+ Screenshot_1 - Початкова сторінка SPA<br><br>
  ![Image alt](https://github.com/Valientin/React_NBA_lab_4/raw/master/screen/screen2.PNG)<br>
- Screenshot_2 - Добавлення маркерів<br><br>
+ Screenshot_2 - Сторінка публікації<br><br>
  ![Image alt](https://github.com/Valientin/React_NBA_lab_4/raw/master/screen/screen3.PNG)<br>
- Screenshot_3 - Відкриття popup-вікон з додатковою інформацією<br>
- </center>
+ Screenshot_3 - Форма входу та реєстрації<br><br>
+ ![Image alt](https://github.com/Valientin/React_NBA_lab_4/raw/master/screen/screen4.PNG)<br>
+ Screenshot_4 - Сторінка добавлення публікації<br><br>
+ ![Image alt](https://github.com/Valientin/React_NBA_lab_4/raw/master/screen/screen5.PNG)<br>
+ Screenshot_5 - Меню аплікації<br>
