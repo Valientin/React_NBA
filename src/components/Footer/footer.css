@@ -1,0 +1,22 @@
+.footer {
+    background: #242424;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 33px;
+}
+
+/* .logo {
+   flex-grow: 1;
+   padding-top: 3px;
+} */
+
+.logo img {
+   margin-right: 10px;
+   width:30px;
+}
+
+.right {
+    color:#878787;
+    font-size: 12px;
+}

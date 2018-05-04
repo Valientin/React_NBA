@@ -1,0 +1,27 @@
+.header {
+   background: #242424;
+   padding: 4px 15px;
+}
+
+.headerOpt {
+   display: flex;
+   align-items: center;
+}
+
+.logo {
+   flex-grow: 1;
+   padding-top: 3px;
+}
+
+.logo img {
+   width:35px;
+}
+
+.bars {
+   margin-right: 15px;
+}
+
+.sidenav {
+   background: #000;
+   max-width: 220px;
+}

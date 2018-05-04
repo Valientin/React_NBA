@@ -1,0 +1,42 @@
+
+.featured_item {
+    position:relative;
+}
+
+.featured_item a {
+    position:absolute;
+    width:100%;
+    bottom:0px;
+    text-decoration: none;
+    right:0px;
+}
+
+.featured_image {
+    height:330px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.featured_link {
+   bottom: 25px !important;
+   background: rgba(0, 0, 0, 0.68);
+}
+.featured_link:hover{
+   background: rgba(214, 214, 214, 0.48);
+}
+.featured_link:hover .featured_caption {
+   color: #000;
+}
+
+.featured_wrapper{
+   max-height: 330px;
+}
+
+.featured_caption {
+    color:#ffffff;
+    text-align: center;
+    width:100%;
+    padding:20px;
+    font-weight:300;
+    font-size:23px;
+    box-sizing: border-box;
+}
