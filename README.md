@@ -1,5 +1,5 @@
 
- Аплікація доступна за адресом -</b> https://reactnba-3d0e0.firebaseapp.com/
+ Аплікація доступна за адресом -</b> https://reactnba-3d0e0.firebaseapp.com/ <br>
 Як базу даних та хостинг для аплікації було використано платформу Google - Firebase.
 
  ![Image alt](https://github.com/Valientin/React_NBA_lab_4/raw/master/screen/screen1.PNG)<br>
